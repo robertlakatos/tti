@@ -4,3 +4,5 @@ clip/images_30k/
 clip/img_embs/
 clip/models/
 clip/best_models/
+clip/mscoco_train/
+clip/mscoco_valid/
